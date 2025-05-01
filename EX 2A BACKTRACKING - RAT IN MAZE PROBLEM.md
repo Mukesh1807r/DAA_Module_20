@@ -1,5 +1,5 @@
 # EX 2A BACKTRACKING - RAT IN MAZE PROBLEM
-## DATE:
+## DATE:08:04:2025
 
 ## Aim
 To solve the Rat in a Maze problem using Backtracking. The goal is to find a path from the top-left corner (0, 0) to the bottom-right corner (N-1, N-1) of a maze, moving only through cells that contain a 1 (path), and avoiding cells with 0 (blocked).
